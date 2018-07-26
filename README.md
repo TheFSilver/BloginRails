@@ -13,7 +13,7 @@ Pour tester notre super appli, réalisez les processus suivants :
 - git clone https://github.com/TheFSilver/BloginRails.git
 
 pour copier notre répo sur votre machine
-- cd THNews/
+- cd BloginRails/
 
 pour se déplacer dans le bon dossier
 - bundle install
