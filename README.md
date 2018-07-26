@@ -5,6 +5,7 @@ Salut mon p'tit koala !
 Bienvenue sur le repository de la superbe application Rails de François Dasylva et Jeremy Rak !
 
 Ce projet crée une base de donnée pour une application de blogging.
+
 Il peut y avoir plusieurs user dans l'application, ils ont tous un nom. Chaque utiliseur peut créer plusieurs articles mais chaque article est créé par un seul user. Un article a plusieurs categories et une catégories a plusieurs tags.
 
 ## Instructions ##
